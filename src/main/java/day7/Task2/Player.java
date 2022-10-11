@@ -22,7 +22,7 @@ public class Player {
     }
 
     public void run() {
-        --this.stamina;
+        this.stamina--;
         if (this.stamina == MIN_STAMINA) {
             System.out.println("Игрок устал и ушел с поля");
             System.out.println("На поле осталось: " + (--countPlayers) + " игроков");
