@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="777bd83c-fd1b-4b70-a6cd-8ffd37092824" name="Changes" comment="add solution day02.task1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day2/День 2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day2/Task2.java" afterDir="false" />
-    </list>
+    <list default="true" id="777bd83c-fd1b-4b70-a6cd-8ffd37092824" name="Changes" comment="add solution day02.task2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,13 +53,13 @@
       <recent name="E:\lessons\JavaMarathon\src\main\java\day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day2.Task2">
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.Task4" />
+  <component name="RunManager" selected="Application.Task3">
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.Task3" />
       <module name="JavaMarathon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3" />
         <item itemvalue="Application.day2.Task2" />
         <item itemvalue="Application.day2.Task1" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task4" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665499929366</updated>
       <workItem from="1665499933953" duration="140000" />
-      <workItem from="1665500277576" duration="2543000" />
+      <workItem from="1665500277576" duration="2841000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1665500834076</created>
@@ -192,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665502677253</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add solution day02.task2">
+      <created>1665503153286</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665503153286</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +221,7 @@
     <MESSAGE value="add solution day01.task5" />
     <MESSAGE value="add solution day01.task6" />
     <MESSAGE value="add solution day02.task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution day02.task1" />
+    <MESSAGE value="add solution day02.task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution day02.task2" />
   </component>
 </project>
