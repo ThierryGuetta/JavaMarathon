@@ -4,109 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="777bd83c-fd1b-4b70-a6cd-8ffd37092824" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaMarathon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaMarathon2020.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day0/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day1/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day11/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day12/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day12/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day12/task3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day12/task4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day12/task5/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day13/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day14/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day14/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day14/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day15/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day16/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day16/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day17/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day17/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day18/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day18/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day2/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day2/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day2/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day4/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day4/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day4/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day5/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day5/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day6/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day6/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day6/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day7/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day7/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day8/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day8/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day9/Task1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day9/Task2/TestFigures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shoes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/AbstractTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day1/Day1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day11/Day11CourierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day11/Day11PickerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day12/task3/Day12Task3MusicBandTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day12/task4/Day12Task4MusicBandTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day12/task5/Day12Task5MusicBandTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day13/Day13MessageDatabaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day13/Day13UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day14/Day14Task1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day14/Day14Task2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day14/Day14Task3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day16/Day16Task1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day17/Day17Task1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day17/Day17Task2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day18/Day18Task1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day18/Day18Task2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day2/Day2Task4Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day3/Day3Task3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day6/Day6AirplaneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day6/Day6CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day6/Day6MotorbikeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day6/Day6TeacherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day7/Day7AirplaneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day7/Day7PlayerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day8/Day8AirplaneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day9/Task1/Day9HumanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day9/Task1/Day9StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day9/Task1/Day9TeacherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/day9/Task2/Day9TestFiguresTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/D14T1_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/D14T1_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/D14T2_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/D14T2_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/D16T1_1.txt" afterDir="false" />
+    <list default="true" id="777bd83c-fd1b-4b70-a6cd-8ffd37092824" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/src/main/java/day1/День1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +27,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2FzfdlPJfel1e8ErGuMHEW4K1up" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -139,10 +41,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/lessons/JavaMarathon"
+    "last_opened_file_path": "E:/lessons/JavaMarathon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\lessons\JavaMarathon\src\main\java\day1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.Task1" />
       <module name="JavaMarathon" />
@@ -156,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.Task2" />
+      <module name="JavaMarathon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
@@ -171,8 +96,16 @@
       <option name="presentableId" value="Default" />
       <updated>1665499929366</updated>
       <workItem from="1665499933953" duration="140000" />
-      <workItem from="1665500277576" duration="294000" />
+      <workItem from="1665500277576" duration="900000" />
     </task>
+    <task id="LOCAL-00001" summary="...">
+      <created>1665500834076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665500834076</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,5 +121,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
