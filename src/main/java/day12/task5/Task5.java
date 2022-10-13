@@ -4,9 +4,6 @@ import java.util.ArrayList;
 
 public class Task5 {
     public static void main(String[] args) {
-        MusicBand LP = new MusicBand("Linkin park", 1999);
-        MusicBand SOAD = new MusicBand("System of a Down", 1998);
-
         ArrayList<Member> members = new ArrayList<>() {
             {
                 add(new Member("Bob", 16));
@@ -26,8 +23,8 @@ public class Task5 {
                 add(new Member("Vova", 45));
             }};
 
-        LP.setBandMembers(members);
-        SOAD.setBandMembers(members2);
+        MusicBand LP = new MusicBand("Linkin park", 1999, members);
+        MusicBand SOAD = new MusicBand("System of a Down", 1998, members2);
 
         LP.printMembers();
         SOAD.printMembers();
@@ -35,5 +32,6 @@ public class Task5 {
         MusicBand.transferMembers(LP, SOAD);
 
         LP.printMembers();
+        SOAD.printMembers();
     }
 }

@@ -23,9 +23,10 @@ public class MusicBand {
         return year;
     }
 
-    public MusicBand(String name, int year) {
+    public MusicBand(String name, int year, ArrayList<Member> bandMembers) {
         this.name = name;
         this.year = year;
+        this.bandMembers = bandMembers;
     }
 
     public void printMembers(){
@@ -34,5 +35,6 @@ public class MusicBand {
 
     public static void transferMembers(MusicBand musicBand, MusicBand musicBand2){
         musicBand.getBandMembers().addAll(musicBand2.getBandMembers());
+        musicBand2.setBandMembers(null);
     }
 }
