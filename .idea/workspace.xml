@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="777bd83c-fd1b-4b70-a6cd-8ffd37092824" name="Changes" comment="add solution day12.task2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day12/task3/MusicBand.java" afterDir="false" />
+    <list default="true" id="777bd83c-fd1b-4b70-a6cd-8ffd37092824" name="Changes" comment="add solution day12.task3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/day12/task4/MusicBand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day12/task3/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12/task3/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day12/task4/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12/task4/Task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,12 +72,13 @@
       <recent name="E:\lessons\JavaMarathon\src\main\java\day1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day12.task4" />
       <recent name="day8" />
       <recent name="day7" />
       <recent name="day7.Task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.Task4">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day11.Task1" />
       <module name="JavaMarathon" />
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFigures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day9.Task2.TestFigures" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12.task4.Task4" />
       <module name="JavaMarathon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day9.Task2.*" />
+          <option name="PATTERN" value="day12.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.day12.Task2" />
         <item itemvalue="Application.day12.Task1" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.TestFigures" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +165,7 @@
       <workItem from="1665499933953" duration="140000" />
       <workItem from="1665500277576" duration="22028000" />
       <workItem from="1665602802409" duration="5140000" />
-      <workItem from="1665662351264" duration="13409000" />
+      <workItem from="1665662351264" duration="15942000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1665500834076</created>
@@ -432,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665681036292</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="add solution day12.task3">
+      <created>1665683983913</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1665683983913</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,7 +458,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add solution day02.task1" />
     <MESSAGE value="add solution day02.task2" />
     <MESSAGE value="add solution day02.task3" />
     <MESSAGE value="add solution day02.task4" />
@@ -475,6 +482,7 @@
     <MESSAGE value="add solution day11.task1" />
     <MESSAGE value="add solution day12.task1" />
     <MESSAGE value="add solution day12.task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution day12.task2" />
+    <MESSAGE value="add solution day12.task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution day12.task3" />
   </component>
 </project>
