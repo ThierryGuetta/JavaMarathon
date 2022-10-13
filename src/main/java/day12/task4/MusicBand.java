@@ -27,9 +27,11 @@ public class MusicBand {
     public void addMember(String member){
         bandMembers.add(member);
     }
+
     public void printMembers(){
         System.out.println(name + " " + getBandMembers());
     }
+
     public static void transferMembers(MusicBand musicBand, MusicBand musicBand2){
         musicBand.getBandMembers().addAll(musicBand2.getBandMembers());
     }
