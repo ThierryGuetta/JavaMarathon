@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="777bd83c-fd1b-4b70-a6cd-8ffd37092824" name="Changes" comment="add solution day12.task4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day12/task5/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day12/task5/MusicBand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day12/task5/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12/task5/Task5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +72,14 @@
       <recent name="E:\lessons\JavaMarathon\src\main\java\day1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day12.task5" />
       <recent name="day12.task4" />
       <recent name="day8" />
       <recent name="day7" />
       <recent name="day7.Task1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Day12Task4MusicBandTest">
+  <component name="RunManager" selected="Application.Task5">
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day12.task3.Task3" />
       <module name="JavaMarathon" />
@@ -103,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day12.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.Task1" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12.task5.Task5" />
       <module name="JavaMarathon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.*" />
+          <option name="PATTERN" value="day12.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task5" />
         <item itemvalue="JUnit.Day12Task4MusicBandTest" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.day12.Task2" />
-        <item itemvalue="Application.day12.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +168,7 @@
       <workItem from="1665499933953" duration="140000" />
       <workItem from="1665500277576" duration="22028000" />
       <workItem from="1665602802409" duration="5140000" />
-      <workItem from="1665662351264" duration="16253000" />
+      <workItem from="1665662351264" duration="16965000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1665500834076</created>
@@ -447,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665686417705</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="add solution day12.task4">
+      <created>1665686694216</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1665686694216</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
