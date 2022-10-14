@@ -12,7 +12,7 @@ public class Task1 {
 
     public static void printResult(File file) throws IOException {
         Scanner scanner = new Scanner(file);
-        int sum = 0;
+        double sum = 0;
         int length = 0;
         while (scanner.hasNextLine()) {
             String[] array = scanner.nextLine().split(" ");
@@ -21,6 +21,8 @@ public class Task1 {
                 length++;
             }
         }
+        double value = sum/length;
         System.out.println(sum / length);
+        System.out.printf("%.3f", value);
     }
 }
