@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="777bd83c-fd1b-4b70-a6cd-8ffd37092824" name="Changes" comment="add solution day12.task5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day13/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day13/MessageDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day13/User.java" afterDir="false" />
+    <list default="true" id="777bd83c-fd1b-4b70-a6cd-8ffd37092824" name="Changes" comment="add solution day14.task3">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day13/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day13/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day15/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day15/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,10 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -69,6 +70,7 @@
       <recent name="E:\lessons\JavaMarathon\src\main\java\day4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\lessons\JavaMarathon\src\main\java\day15" />
       <recent name="E:\lessons\JavaMarathon\src\main\java\day5" />
       <recent name="E:\lessons\JavaMarathon\src\main\java\day3" />
       <recent name="E:\lessons\JavaMarathon\src\main\java\day1" />
@@ -81,7 +83,7 @@
       <recent name="day7.Task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task1">
+  <component name="RunManager" selected="Application.day15.Task1">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day13.Task1" />
       <module name="JavaMarathon" />
@@ -96,11 +98,11 @@
       </method>
     </configuration>
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.task3.Task3" />
+      <option name="MAIN_CLASS_NAME" value="day14.Task3.Task3" />
       <module name="JavaMarathon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.task3.*" />
+          <option name="PATTERN" value="day14.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.task4.Task4" />
+    <configuration name="day14.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.Task1" />
       <module name="JavaMarathon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.task4.*" />
+          <option name="PATTERN" value="day14.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.task5.Task5" />
+    <configuration name="day14.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.Task2" />
       <module name="JavaMarathon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.task5.*" />
+          <option name="PATTERN" value="day14.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,28 +136,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day12Task4MusicBandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="day15.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15.Task1" />
       <module name="JavaMarathon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day12.task4.*" />
+          <option name="PATTERN" value="day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day12.task4" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day12.task4.Day12Task4MusicBandTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="JUnit.Day12Task4MusicBandTest" />
-        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.day15.Task1" />
         <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.day14.Task2" />
+        <item itemvalue="Application.day14.Task1" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,8 @@
       <workItem from="1665500277576" duration="22028000" />
       <workItem from="1665602802409" duration="5140000" />
       <workItem from="1665662351264" duration="20790000" />
-      <workItem from="1665743099316" duration="4981000" />
+      <workItem from="1665743099316" duration="11614000" />
+      <workItem from="1665760020648" duration="4392000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1665500834076</created>
@@ -474,7 +475,49 @@
       <option name="project" value="LOCAL" />
       <updated>1665689418849</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="add solution day13.task1">
+      <created>1665749672702</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1665749672702</updated>
+    </task>
+    <task id="LOCAL-00045" summary="add gitignore">
+      <created>1665749979514</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1665749979514</updated>
+    </task>
+    <task id="LOCAL-00046" summary="add solution day14.task1">
+      <created>1665751879654</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1665751879654</updated>
+    </task>
+    <task id="LOCAL-00047" summary="add solution day14.task2">
+      <created>1665753276939</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1665753276939</updated>
+    </task>
+    <task id="LOCAL-00048" summary="add solution day14.task1">
+      <created>1665753338596</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1665753338596</updated>
+    </task>
+    <task id="LOCAL-00049" summary="add solution day14.task3">
+      <created>1665754058131</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1665754058131</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,11 +535,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add solution day02.task4" />
-    <MESSAGE value="add solution day03.task2" />
-    <MESSAGE value="add solution day03.task3" />
-    <MESSAGE value="add solution day03.task1" />
-    <MESSAGE value="add solution day04.task1" />
     <MESSAGE value="add solution day04.task2" />
     <MESSAGE value="add solution day04.task3" />
     <MESSAGE value="add solution day04.task4" />
@@ -517,6 +555,11 @@
     <MESSAGE value="add solution day12.task3" />
     <MESSAGE value="add solution day12.task4" />
     <MESSAGE value="add solution day12.task5" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution day12.task5" />
+    <MESSAGE value="add solution day13.task1" />
+    <MESSAGE value="add gitignore" />
+    <MESSAGE value="add solution day14.task2" />
+    <MESSAGE value="add solution day14.task1" />
+    <MESSAGE value="add solution day14.task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution day14.task3" />
   </component>
 </project>
