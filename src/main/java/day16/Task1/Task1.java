@@ -1,4 +1,4 @@
-package day16;
+package day16.Task1;
 
 import java.io.File;
 import java.io.IOException;
