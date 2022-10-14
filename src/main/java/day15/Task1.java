@@ -8,7 +8,7 @@ public class Task1 {
         File input = new File("E:\\lessons\\JavaMarathon\\src\\main\\resources\\shoes.csv");
         Scanner scanner = new Scanner(input);
 
-        File output = new File("C:\\Users\\Андрей\\Desktop\\text.txt");
+        File output = new File("E:\\lessons\\JavaMarathon\\src\\main\\java\\day15\\file.txt");
         PrintWriter pw = new PrintWriter(output);
 
         while (scanner.hasNextLine()) {
