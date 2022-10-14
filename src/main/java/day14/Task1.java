@@ -19,7 +19,7 @@ public class Task1 {
             Scanner scanner = new Scanner(file);
             String line = scanner.nextLine();
             String[] nums = line.split(" ");
-            if (nums.length != 10) throw new RuntimeException("Неккоректный входной файл");
+            if (nums.length != 10) throw new IllegalAccessException();
             for (String num : nums) {
                 sum += Integer.parseInt(num);
             }
@@ -27,6 +27,8 @@ public class Task1 {
             System.out.println(sum);
         } catch (FileNotFoundException e) {
             System.out.println("Файл не найден");
+        } catch (IllegalAccessException e) {
+            System.out.println("Некорректный файл");
         }
     }
 }
