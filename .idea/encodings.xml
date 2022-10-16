@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java/day15/Task1.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/main/java/day15/text.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/day17/ChessPiece.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/day17/Task1.java" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/src/main/resources/shoes.csv" charset="windows-1251" />
   </component>
 </project>
