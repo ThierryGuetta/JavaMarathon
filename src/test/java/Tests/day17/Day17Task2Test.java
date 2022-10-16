@@ -1,7 +1,7 @@
 //package Tests.day17;
 //
 //import Tests.AbstractTest;
-//import day17.Task2;
+//import day17.Task2.Task2;
 //import org.junit.jupiter.api.Assertions;
 //import org.junit.jupiter.api.Test;
 //

@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="777bd83c-fd1b-4b70-a6cd-8ffd37092824" name="Changes" comment="add solution day17.task1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17/Task2/ChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day17/Task2/ChessPiece.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day17/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day17/Task1/ChessPiece.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day17/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day17/Task1/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day17/Day17Task1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day17/Day17Task1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day17/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day17/Task2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/day17/Day17Task2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/day17/Day17Task2Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -80,20 +83,20 @@
       <recent name="E:\lessons\JavaMarathon\src\main\java\day1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day17.Task2" />
       <recent name="day12.task5" />
       <recent name="day12.task4" />
       <recent name="day8" />
       <recent name="day7" />
-      <recent name="day7.Task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day17.Task1.Task1">
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day14.Task3.Task3" />
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17.Task2.Task2" />
       <module name="JavaMarathon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14.Task3.*" />
+          <option name="PATTERN" value="day17.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.day17.Task1.Task1" />
         <item itemvalue="Application.day16.Task2" />
         <item itemvalue="JUnit.Day16Task1Test" />
         <item itemvalue="Application.day15.Task1" />
-        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -180,14 +183,7 @@
       <workItem from="1665743099316" duration="11614000" />
       <workItem from="1665760020648" duration="6320000" />
       <workItem from="1665767210283" duration="8777000" />
-      <workItem from="1665920392325" duration="3496000" />
-    </task>
-    <task id="LOCAL-00010" summary="add solution day02.task4">
-      <created>1665504305497</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1665504305497</updated>
+      <workItem from="1665920392325" duration="6048000" />
     </task>
     <task id="LOCAL-00011" summary="add solution day03.task1">
       <created>1665504955503</created>
@@ -525,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665925156961</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="add solution day17.task1">
+      <created>1665925325118</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1665925325118</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
