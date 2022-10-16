@@ -1,4 +1,4 @@
-package day17;
+package day17.Task1;
 
 public enum ChessPiece {
     KING_WHITE("Король (белый) ?", 100),
