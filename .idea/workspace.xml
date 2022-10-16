@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="777bd83c-fd1b-4b70-a6cd-8ffd37092824" name="Changes" comment="add solution day17.task2">
+    <list default="true" id="777bd83c-fd1b-4b70-a6cd-8ffd37092824" name="Changes" comment="add solution day18.task1">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day18/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day18/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day18/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day18/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <recent name="day7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task1">
+  <component name="RunManager" selected="Application.day18.Task2">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day18.Task1" />
       <module name="JavaMarathon" />
@@ -139,28 +139,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day16Task1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="day18.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.Task2" />
       <module name="JavaMarathon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.day16.*" />
+          <option name="PATTERN" value="day18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tests.day16" />
-      <option name="MAIN_CLASS_NAME" value="Tests.day16.Day16Task1Test" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day18.Task2" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.day17.Task1.Task1" />
         <item itemvalue="Application.day16.Task2" />
-        <item itemvalue="JUnit.Day16Task1Test" />
       </list>
     </recent_temporary>
   </component>
@@ -179,14 +177,7 @@
       <workItem from="1665743099316" duration="11614000" />
       <workItem from="1665760020648" duration="6320000" />
       <workItem from="1665767210283" duration="8777000" />
-      <workItem from="1665920392325" duration="8663000" />
-    </task>
-    <task id="LOCAL-00012" summary="add solution day03.task2">
-      <created>1665505247157</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1665505247157</updated>
+      <workItem from="1665920392325" duration="10095000" />
     </task>
     <task id="LOCAL-00013" summary="add solution day03.task3">
       <created>1665505575244</created>
@@ -524,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665928114427</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="add solution day18.task1">
+      <created>1665930670813</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1665930670813</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +541,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add solution day06.task2" />
     <MESSAGE value="add solution day06.task3" />
     <MESSAGE value="add solution day07.task2" />
     <MESSAGE value="add solution day07.task1" />
@@ -568,6 +565,7 @@
     <MESSAGE value="..." />
     <MESSAGE value="add solution day17.task1" />
     <MESSAGE value="add solution day17.task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add solution day17.task2" />
+    <MESSAGE value="add solution day18.task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution day18.task1" />
   </component>
 </project>
