@@ -28,9 +28,9 @@ public class People {
             }
             return peoples;
         } catch (FileNotFoundException e) {
-            System.out.println("Файл не найден");
+            System.out.println("Р¤Р°Р№Р» РЅРµ РЅР°Р№РґРµРЅ");
         } catch (IllegalArgumentException e) {
-            System.out.println("Некорректный файл");
+            System.out.println("РќРµРєРѕСЂСЂРµРєС‚РЅС‹Р№ С„Р°Р№Р»");
         }
         return null;
     }
