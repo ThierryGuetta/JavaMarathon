@@ -9,7 +9,7 @@ public class Task3 {
             double x = scanner.nextInt();
             double y = scanner.nextInt();
             if (y == 0) {
-                System.out.println("Δελενθε νΰ 0");
+                System.out.println("Π”ΠµΠ»ΠµΠ½ΠΈΠµ Π½Π° 0");
                 continue;
             }
             System.out.println(x / y);
