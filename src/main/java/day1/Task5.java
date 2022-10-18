@@ -4,7 +4,7 @@ public class Task5 {
     public static void main(String[] args) {
 
         for (int year = 1980; year <= 2020 ; year += 4) {
-            System.out.println("Îëèìïèàäà " + year + " ãîäà");
+            System.out.println("ÐžÐ»Ð¸Ð¼Ð¿Ð¸Ð°Ð´Ð° " + year + " Ð³Ð¾Ð´Ð°");
         }
     }
 }
