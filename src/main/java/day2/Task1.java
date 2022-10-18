@@ -6,9 +6,9 @@ public class Task1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int floors = scanner.nextInt();
-        if (floors > 0 && floors <= 4) System.out.println("Ã‡ÎÓ˝Ú‡ÊÌ˚È ‰ÓÏ");
-        else if (floors >= 5 && floors <= 8) System.out.println("—Â‰ÌÂ˝Ú‡ÊÌ˚È ‰ÓÏ");
-        else if (floors >= 9) System.out.println("ÃÌÓ„Ó˝Ú‡ÊÌ˚È ‰ÓÏ");
-        else System.out.println("Œ¯Ë·Í‡ ‚‚Ó‰‡");
+        if (floors > 0 && floors <= 4) System.out.println("–ú–∞–ª–æ—ç—Ç–∞–∂–Ω—ã–π –¥–æ–º");
+        else if (floors >= 5 && floors <= 8) System.out.println("–°—Ä–µ–¥–Ω–µ—ç—Ç–∞–∂–Ω—ã–π –¥–æ–º");
+        else if (floors >= 9) System.out.println("–ú–Ω–æ–≥–æ—ç—Ç–∞–∂–Ω—ã–π –¥–æ–º");
+        else System.out.println("–û—à–∏–±–∫–∞ –≤–≤–æ–¥–∞");
     }
 }
