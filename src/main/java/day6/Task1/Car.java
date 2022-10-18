@@ -37,7 +37,7 @@ public class Car {
     private String color;
 
     public void info() {
-        System.out.println("Это автомобиль");
+        System.out.println("Р­С‚Рѕ Р°РІС‚РѕРјРѕР±РёР»СЊ");
     }
 
     public int yearDifference(int year) {

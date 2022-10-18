@@ -24,7 +24,7 @@ public class Motorbike {
     }
 
     public void info() {
-        System.out.println("Это мотоцикл");
+        System.out.println("Р­С‚Рѕ РјРѕС‚РѕС†РёРєР»");
     }
 
     public int yearDifference(int year) {
