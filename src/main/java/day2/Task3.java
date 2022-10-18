@@ -7,7 +7,7 @@ public class Task3 {
         Scanner scanner = new Scanner(System.in);
         int first = scanner.nextInt();
         int second = scanner.nextInt();
-        if (first >= second) System.out.println("ÕÂÍÓÂÍÚÌ˚È ‚‚Ó‰");
+        if (first >= second) System.out.println("–ù–µ–∫–æ—Ä—Ä–µ–∫—Ç–Ω—ã–π –≤–≤–æ–¥");
         while (first + 1 < second) {
             if (first % 5 == 0 && first % 10 != 0) System.out.println(first);
             first++;
