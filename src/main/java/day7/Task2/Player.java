@@ -16,16 +16,16 @@ public class Player {
     }
 
     public static void info() {
-        if (countPlayers < 6) System.out.println("Команды неполные. На поле еще есть "
-                + (6 - countPlayers) + " свободных мест");
-        else System.out.println("На поле нет свободных мест");
+        if (countPlayers < 6) System.out.println("РљРѕРјР°РЅРґС‹ РЅРµРїРѕР»РЅС‹Рµ. РќР° РїРѕР»Рµ РµС‰Рµ РµСЃС‚СЊ "
+                + (6 - countPlayers) + " СЃРІРѕР±РѕРґРЅС‹С… РјРµСЃС‚");
+        else System.out.println("РќР° РїРѕР»Рµ РЅРµС‚ СЃРІРѕР±РѕРґРЅС‹С… РјРµСЃС‚");
     }
 
     public void run() {
         this.stamina--;
         if (this.stamina == MIN_STAMINA) {
-            System.out.println("Игрок устал и ушел с поля");
-            System.out.println("На поле осталось: " + (--countPlayers) + " игроков");
+            System.out.println("РРіСЂРѕРє СѓСЃС‚Р°Р» Рё СѓС€РµР» СЃ РїРѕР»СЏ");
+            System.out.println("РќР° РїРѕР»Рµ РѕСЃС‚Р°Р»РѕСЃСЊ: " + (--countPlayers) + " РёРіСЂРѕРєРѕРІ");
         }
     }
 }
