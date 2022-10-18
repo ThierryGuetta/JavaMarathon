@@ -24,9 +24,9 @@ public class Plane {
     }
 
     public void info() {
-        System.out.println("Изготовитель: " + producer + ", " + "год выпуска: " + year + ", "
-                + "длина: " + length + ", " + "вес: " + weight + ", "
-                + "количество топлива в баке: " + fuel);
+        System.out.println("вЂњРР·РіРѕС‚РѕРІРёС‚РµР»СЊ: " + producer + ", " + " РіРѕРґ РІС‹РїСѓСЃРєР°: " + year + ", "
+                + "РґР»РёРЅР°: " + length + ", " + "РІРµСЃ: " + weight + ", "
+                + "РєРѕР»РёС‡РµСЃС‚РІРѕ С‚РѕРїР»РёРІР° РІ Р±Р°РєРµ: " + fuel);
     }
     public void fillUp(int fuel){
         this.fuel += fuel;
