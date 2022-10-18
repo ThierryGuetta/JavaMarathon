@@ -16,7 +16,7 @@ public class Human {
     }
 
     public void printInfo() {
-        System.out.println("Это человек с именем " + name);
+        System.out.println("Р­С‚РѕС‚ С‡РµР»РѕРІРµРє СЃ РёРјРµРЅРµРј " + name);
     }
 
 

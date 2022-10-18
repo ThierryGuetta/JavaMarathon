@@ -19,6 +19,6 @@ public class Teacher extends Human {
     @Override
     public void printInfo() {
         super.printInfo();
-        System.out.println("Этот преподаватель с именем " + getName());
+        System.out.println("Р­С‚РѕС‚ РїСЂРµРїРѕРґР°РІР°С‚РµР»СЊ СЃ РёРјРµРЅРµРј " + getName());
     }
 }
