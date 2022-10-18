@@ -30,18 +30,18 @@ public class Teacher {
         String mark = "";
         switch (point) {
             case 2:
-                mark = "неудовлетворительно";
+                mark = "РЅРµСѓРґРѕРІР»РµС‚РІРѕСЂРёС‚РµР»СЊРЅРѕ";
                 break;
             case 3:
-                mark = "удовлетворительно";
+                mark = "СѓРґРѕРІР»РµС‚РІРѕСЂРёС‚РµР»СЊРЅРѕ";
                 break;
             case 4:
-                mark = "хорошо";
+                mark = "С…РѕСЂРѕС€Рѕ";
                 break;
             case 5:
-                mark = "отлично";
+                mark = "РѕС‚Р»РёС‡РЅРѕ";
         }
-        System.out.println("Преподаватель " + this.name + " оценил студента с именем "
-                + student.getName() + " по предмету " + this.object + " на оценку " + mark + ".");
+        System.out.println("РџСЂРµРїРѕРґР°РІР°С‚РµР»СЊ " + this.name + " РЇ РѕС†РµРЅРёР» СЃС‚СѓРґРµРЅС‚Р° СЃ РёРјРµРЅРµРј "
+                + student.getName() + " РїРѕ РїСЂРµРґРјРµС‚Сѓ " + this.object + " РЅР° РѕС†РµРЅРєСѓ " + mark + ".");
     }
 }

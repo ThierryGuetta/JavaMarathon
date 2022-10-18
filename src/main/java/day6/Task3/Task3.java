@@ -2,8 +2,8 @@ package day6.Task3;
 
 public class Task3 {
     public static void main(String[] args) {
-        Teacher teacher = new Teacher("Татьяна Петровна", "Химия");
-        Student student = new Student("Иван");
+        Teacher teacher = new Teacher("РЎРІРµС‚Р»Р°РЅР°", "С…РёРјРёСЏ");
+        Student student = new Student("РРІР°РЅ");
         teacher.evaluate(student);
     }
 }
