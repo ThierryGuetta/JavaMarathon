@@ -9,28 +9,28 @@ public class Task1 {
             String city = scanner.nextLine();
             if (city.equals("Stop")) break;
             switch (city) {
-                case "Москва":
-                case "Ростов":
-                case "Владивосток":
-                    System.out.println("Россия");
+                case "РњРѕСЃРєРІР°":
+                case "Р’Р»Р°РґРёРІРѕСЃС‚РѕРє":
+                case "Р РѕСЃС‚РѕРІ":
+                    System.out.println("Р РѕСЃСЃРёСЏ");
                     break;
-                case "Рим":
-                case "Милан":
-                case "Турин":
-                    System.out.println("Италия");
+                case "Р РёРј":
+                case "РњРёР»Р°РЅ":
+                case "РўСѓСЂРёРЅ":
+                    System.out.println("РС‚Р°Р»РёСЏ");
                     break;
-                case "Ливерпуль":
-                case "Манчестер":
-                case "Лондон":
-                    System.out.println("Англия");
+                case "Р›РёРІРµСЂРїСѓР»СЊ":
+                case "РњР°РЅС‡РµСЃС‚РµСЂ":
+                case "Р›РѕРЅРґРѕРЅ":
+                    System.out.println("РђРЅРіР»РёСЏ");
                     break;
-                case "Берлин":
-                case "Мюнхен":
-                case "Кёльн":
-                    System.out.println("Германия");
+                case "Р‘РµСЂР»РёРЅ":
+                case "РњСЋРЅС…РµРЅ":
+                case "РљС‘Р»СЊРЅ":
+                    System.out.println("Р“РµСЂРјР°РЅРёСЏ");
                     break;
                 default:
-                    System.out.println("Неизвестная страна");
+                    System.out.println("РќРµРёР·РІРµСЃС‚РЅР°СЏ СЃС‚СЂР°РЅР°");
             }
         }
     }
