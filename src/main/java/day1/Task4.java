@@ -4,7 +4,7 @@ public class Task4 {
     public static void main(String[] args) {
         int year = 1980;
         while ( year <= 2020){
-            System.out.println("Îëèìïèàäà " + year + " ãîäà");
+            System.out.println("ÐžÐ»Ð¸Ð¼Ð¿Ð¸Ð°Ð´Ð° " + year + " Ð³Ð¾Ð´Ð°");
             year += 4;
         }
     }
