@@ -24,9 +24,9 @@ public class Plane {
     }
 
     public void info() {
-        System.out.println("Изготовитель: " + producer + ", " + "год выпуска: " + year + ", "
-                + "длина: " + length + ", " + "вес: " + weight + ", "
-                + "количество топлива в баке: " + fuel);
+        System.out.println("вЂњРР·РіРѕС‚РѕРІРёС‚РµР»СЊ: " + producer + ", " + " РіРѕРґ РІС‹РїСѓСЃРєР°: " + year + ", "
+                + "РґР»РёРЅР°: " + length + ", " + "РІРµСЃ: " + weight + ", "
+                + "РєРѕР»РёС‡РµСЃС‚РІРѕ С‚РѕРїР»РёРІР° РІ Р±Р°РєРµ: " + fuel);
     }
 
     public void fillUp(int fuel) {
@@ -34,8 +34,8 @@ public class Plane {
     }
 
     public static void compareAirplanes(Plane plane1, Plane plane2) {
-        if (plane1.length == plane2.length) System.out.println("Самолеты равны");
-        String s = plane1.length > plane2.length ? "Первый самолет длинней второго" : "Второй самолет длиннее первого";
+        if (plane1.length == plane2.length) System.out.println("РЎР°РјРѕР»РµС‚С‹ СЂР°РІРЅС‹");
+        String s = plane1.length > plane2.length ? "РџРµСЂРІС‹Р№ СЃР°РјРѕР»РµС‚ РґР»РёРЅРЅРµРµ РІС‚РѕСЂРѕРіРѕ" : "Р’С‚РѕСЂРѕР№ СЃР°РјРѕР»РµС‚ РґР»РёРЅРЅРµРµ РїРµСЂРІРѕРіРѕ";
         System.out.println(s);
     }
 }
